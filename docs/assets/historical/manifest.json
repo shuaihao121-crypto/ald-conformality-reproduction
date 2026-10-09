@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "assets": [
+    {
+      "path": "docs/assets/historical/model-a-figure3.png",
+      "source_document": "白子豪第十一周学习情况.docx",
+      "source_member": "word/media/image1.png",
+      "figure_mapping": "Historical model-a reproduction corresponding to paper Figure 3",
+      "transform": "none; original embedded screenshot bytes",
+      "sha256": "fb901149e7fe35a3745193545f866d202e5d50ac09d8d7cf97eca59a939937ac"
+    },
+    {
+      "path": "docs/assets/historical/model-a-figure4.png",
+      "source_document": "白子豪第十一周学习情况.docx",
+      "source_member": "word/media/image3.png",
+      "figure_mapping": "Historical model-a reproduction corresponding to paper Figure 4",
+      "transform": "none; original embedded screenshot bytes",
+      "sha256": "b90db710cbb64a93e03271deb6b51b80ab5c288b805828aa4cacbaa77bc27bb5"
+    },
+    {
+      "path": "docs/assets/historical/model-a-figure5.png",
+      "source_document": "白子豪第十一周学习情况.docx",
+      "source_member": "word/media/image5.png",
+      "figure_mapping": "Historical model-a reproduction corresponding to paper Figure 5",
+      "transform": "none; original embedded screenshot bytes",
+      "sha256": "e74363f173c8c6414c84ca5f882a2072fa34c54635bde8f6187854d3e319581e"
+    },
+    {
+      "path": "docs/assets/historical/model-b-figure3.png",
+      "source_document": "白子豪第十二周学习情况.docx",
+      "source_member": "word/media/image1.png",
+      "figure_mapping": "Historical model-b reproduction corresponding to paper Figure 3",
+      "transform": "none; original embedded screenshot bytes",
+      "sha256": "7b0a54fd552c020bb93d49bf8ff40d767a1bd47968f8c244da678d3001fb283b"
+    },
+    {
+      "path": "docs/assets/historical/model-b-figure4.png",
+      "source_document": "白子豪第十二周学习情况.docx",
+      "source_member": "word/media/image3.png",
+      "figure_mapping": "Historical model-b reproduction corresponding to paper Figure 4",
+      "transform": "none; original embedded screenshot bytes",
+      "sha256": "290732791af73c01823f19d052516c314b96bd0c57f762ba389e577a2060867a"
+    },
+    {
+      "path": "docs/assets/historical/model-b-figure5.png",
+      "source_document": "白子豪第十二周学习情况.docx",
+      "source_member": "word/media/image5.png",
+      "figure_mapping": "Historical model-b reproduction corresponding to paper Figure 5",
+      "transform": "none; original embedded screenshot bytes",
+      "sha256": "ed43da08fbbd813e21c08014ac093a8e69cf6ff1025f50e80d2a449d75e51f62"
+    },
+    {
+      "path": "docs/assets/historical/model-b-figure6.png",
+      "source_document": "白子豪第十二周学习情况.docx",
+      "source_member": "word/media/image9.png",
+      "figure_mapping": "Historical model-b reproduction corresponding to paper Figure 6",
+      "transform": "none; original embedded screenshot bytes",
+      "sha256": "be0ae580d44e92f19be76a2da57f86c50ab535d83dad2bd5b636cdb34cf9a440"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+Running Model A for A/B comparison
+========================================
+
+Case 1
+Run 1: entrance = 0.999997, xhalf = 278.376, slope = 0.009488, broadness = 114.557
+Run 2: entrance = 0.999997, xhalf = 260.986, slope = 0.009498, broadness = 115.058
+Run 3: entrance = 0.999996, xhalf = 247.672, slope = 0.009474, broadness = 115.058
+Run 4: entrance = 0.999996, xhalf = 236.981, slope = 0.009499, broadness = 115.058
+Run 5: entrance = 0.999996, xhalf = 228.107, slope = 0.009510, broadness = 115.058
+
+Case 2
+Run 1: entrance = 0.936093, xhalf = 54.649, slope = 0.009706, broadness = 114.557
+Run 2: entrance = 0.999052, xhalf = 110.247, slope = 0.009510, broadness = 115.058
+Run 3: entrance = 0.999993, xhalf = 167.942, slope = 0.009502, broadness = 115.058
+Run 4: entrance = 0.999996, xhalf = 247.672, slope = 0.009474, broadness = 115.058
+Run 5: entrance = 0.999998, xhalf = 359.910, slope = 0.009487, broadness = 114.557
+
+Case 3
+Run 1: entrance = 0.999997, xhalf = 298.960, slope = 0.009495, broadness = 115.058
+Run 2: entrance = 0.999996, xhalf = 247.672, slope = 0.009474, broadness = 115.058
+Run 3: entrance = 0.999996, xhalf = 221.506, slope = 0.009502, broadness = 115.058
+Run 4: entrance = 0.999995, xhalf = 204.460, slope = 0.009499, broadness = 115.058
+Run 5: entrance = 0.999994, xhalf = 192.034, slope = 0.009506, broadness = 115.058
+
+Case 4
+Run 1: entrance = 0.999996, xhalf = 247.683, slope = 0.009483, broadness = 115.014
+Run 2: entrance = 0.999996, xhalf = 247.679, slope = 0.009480, broadness = 115.029
+Run 3: entrance = 0.999996, xhalf = 247.672, slope = 0.009474, broadness = 115.058
+Run 4: entrance = 0.999996, xhalf = 247.658, slope = 0.009502, broadness = 115.115
+Run 5: entrance = 0.999996, xhalf = 247.630, slope = 0.009478, broadness = NaN
+
+Case 5
+Run 1: entrance = 0.219346, xhalf = NaN, slope = NaN, broadness = 16.008
+Run 2: entrance = 0.934516, xhalf = 54.636, slope = 0.009704, broadness = 114.557
+Run 3: entrance = 0.999996, xhalf = 247.672, slope = 0.009474, broadness = 115.058
+Run 4: entrance = 1.000721, xhalf = 833.416, slope = 0.009510, broadness = 115.058
+Run 5: entrance = 0.999960, xhalf = NaN, slope = NaN, broadness = NaN
+
+Case 6
+Run 1: entrance = 0.999479, xhalf = 270.131, slope = 0.312879, broadness = 3.502
+Run 2: entrance = 0.998586, xhalf = 268.550, slope = 0.096099, broadness = 11.506
+Run 3: entrance = 1.000443, xhalf = 263.546, slope = 0.030137, broadness = 36.518
+Run 4: entrance = 0.999996, xhalf = 247.672, slope = 0.009474, broadness = 115.058
+Run 5: entrance = 0.936094, xhalf = 172.790, slope = 0.003072, broadness = 361.681
+Run 6: entrance = 0.240312, xhalf = NaN, slope = NaN, broadness = 163.082
+
+Case 7
+Run 1: entrance = 1.000182, xhalf = 742.977, slope = 0.009478, broadness = 115.058
+Run 2: entrance = 0.999402, xhalf = 518.586, slope = 0.009496, broadness = 115.058
+Run 3: entrance = 0.999998, xhalf = 359.917, slope = 0.009489, broadness = 114.557
+Run 4: entrance = 0.999996, xhalf = 247.672, slope = 0.009474, broadness = 115.058
+Run 5: entrance = 0.999993, xhalf = 167.938, slope = 0.009501, broadness = 115.058
+
+Case VIII: Constant exposure
+pA0 = 0.08 Pa, tend = 125.00 s, xhalf = 247.893519
+pA0 = 0.40 Pa, tend = 25.00 s, xhalf = 247.732542
+pA0 = 2.00 Pa, tend = 5.00 s, xhalf = 247.687908
+pA0 = 10.00 Pa, tend = 1.00 s, xhalf = 247.671849
+pA0 = 50.00 Pa, tend = 0.20 s, xhalf = 247.642275
+
+
+========================================
+MODEL A / MODEL B COMPARISON
+========================================
+Valid penetration pairs = 31
+Mean B/A penetration ratio = 1.4867
+Mean penetration increase of Model B = 48.67 %
+
+Valid slope pairs = 31
+Mean A/B slope ratio = 1.9657
+
+Valid broadness pairs = 29
+Mean B/A broadness ratio = 2.6226
+>>
+

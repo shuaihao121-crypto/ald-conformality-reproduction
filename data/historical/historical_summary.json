@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "archive_review_date": "2026-10-09",
+  "dataset": "metrics.csv",
+  "model_recomputed": false,
+  "recomputed_cases_I_VII": {
+    "scope": "Historical printed metrics paired by case_id/run_index; repeated baseline case entries preserved.",
+    "counts": {
+      "penetration": 26,
+      "slope": 26,
+      "broadness": 24
+    },
+    "means": {
+      "B_over_A_penetration": 1.4858283832016121,
+      "A_over_B_slope": 1.9894567184796872,
+      "B_over_A_broadness": 2.7564552931339854
+    },
+    "penetration_increase_percent": 48.582838320161216
+  },
+  "historical_reported_all_cases": {
+    "source_id": "week3:ca4f0d64-7a61-42d1-a5fe-f89b28fb75aa",
+    "counts": {
+      "penetration": 31,
+      "slope": 31,
+      "broadness": 29
+    },
+    "means": {
+      "B_over_A_penetration": 1.4867,
+      "A_over_B_slope": 1.9657,
+      "B_over_A_broadness": 2.6226
+    },
+    "penetration_increase_percent": 48.67,
+    "status": "Reported rounded console aggregates; full slope/broadness point data unavailable."
+  },
+  "conditional_penetration_check_including_case_VIII": {
+    "count": 31,
+    "ratio": 1.4867094552530862,
+    "increase_percent": 48.67094552530862,
+    "mask_basis": "Uses all five Case VIII pairs as reported by the historical aggregate count, without deriving their missing entrance/slope masks.",
+    "csv_masks_remain": "unknown for Model A Case VIII"
+  },
+  "paper_reported_approximate_aggregates": {
+    "doi": "10.1039/D3CP01829F",
+    "section": "5.1",
+    "B_over_A_penetration_increase_percent": 48,
+    "A_over_B_slope": 2,
+    "B_over_A_broadness": 2.8,
+    "note": "Approximate paper values; not exact pass/fail targets for this archive."
+  },
+  "limitations": [
+    "No fresh MATLAB model run was performed for this dataset.",
+    "A metrics preserve console rounding, not full floating-point solver outputs.",
+    "Case VIII A entrance, slope, broadness and validity are not recorded.",
+    "B NaN arrays do not establish the cause of raw missing metrics.",
+    "No historical coverage profiles or per-run residuals are archived."
+  ]
+}
+

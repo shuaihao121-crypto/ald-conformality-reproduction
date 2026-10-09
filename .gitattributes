@@ -1,0 +1,12 @@
+# Preserve source bytes across checkout platforms for SHA-256 verification.
+src/**/*.m -text
+*.png binary
+*.pdf binary
+*.mat binary
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.cff text eol=lf
+*.bib text eol=lf

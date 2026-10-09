@@ -1,0 +1,18 @@
+# Generated runs and MATLAB working files
+/results/
+*.asv
+*.m~
+*.mex*
+*.slxc
+slprj/
+# Machine/editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+# Local review material and credentials
+.env
+.env.*
+/private/

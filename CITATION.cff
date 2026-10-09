@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: >-
+  Cite the original comparison paper for the scientific models and findings.
+  Also credit DReaM-ALD and Machball for implementation lineage. If using this
+  archive or its packaging, acknowledge Zihao Bai and version 0.1.0.
+type: software
+title: "ALD conformality: a two-model MATLAB reproduction"
+version: 0.1.0
+date-released: 2026-10-09
+authors:
+  - family-names: Bai
+    given-names: Zihao
+abstract: >-
+  A preserved MATLAB reproduction of diffusion-reaction and ballistic
+  transport-reaction models for lateral high-aspect-ratio ALD channels.
+  Includes historical metrics with provenance, bilingual documentation,
+  a portable recording interface, figure exports, and small-system checks.
+  The release retains inherited numerical choices and their documented
+  limitations; it does not rerun or claim validation of every full-scale case.
+keywords:
+  - atomic layer deposition
+  - conformality
+  - diffusion-reaction
+  - ballistic transport-reaction
+  - absorbing Markov chain
+  - MATLAB
+  - research reproducibility
+preferred-citation:
+  type: article
+  title: >-
+    Simulation of conformality of ALD growth inside lateral channels:
+    comparison between a diffusion–reaction model and a ballistic
+    transport–reaction model
+  authors:
+    - family-names: Järvilehto
+      given-names: Jänis
+    - family-names: Velasco
+      given-names: Jorge A.
+    - family-names: Yim
+      given-names: Jihong
+    - family-names: Gonsalves
+      given-names: Christine
+    - family-names: Puurunen
+      given-names: Riikka L.
+  journal: Physical Chemistry Chemical Physics
+  year: 2023
+  volume: "25"
+  issue: "34"
+  start: "22952"
+  end: "22964"
+  doi: 10.1039/D3CP01829F
+references:
+  - type: software
+    title: DReaM-ALD – Diffusion-Reaction Model for Atomic Layer Deposition
+    authors:
+      - family-names: Verkama
+        given-names: Emma
+      - family-names: Puurunen
+        given-names: Riikka L.
+    version: v1.0.0
+    year: 2023
+    doi: 10.5281/zenodo.7759195
+    repository-code: https://github.com/Aalto-Puurunen/dream-ald
+  - type: software
+    title: Machball
+    authors:
+      - family-names: Yanguas-Gil
+        given-names: Angel
+      - family-names: Elam
+        given-names: Jeffrey W.
+    version: 0.2.0
+    year: 2020
+    repository-code: https://github.com/aldsim/machball

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "captured_date": "2026-10-08",
+  "file_count": 21,
+  "policy": "Original MATLAB sources preserved byte-for-byte. Autosave files excluded.",
+  "files": [
+    {
+      "path": "src/ModelA_Reproduction/check_c01.m",
+      "origin": "ModelA_Reproduction/check_c01.m",
+      "sha256": "eb23c938e3071632b7253f27b07fd122ea54bd98dde7e0fe837a982addd90a41"
+    },
+    {
+      "path": "src/ModelA_Reproduction/compare_modelAB.m",
+      "origin": "ModelA_Reproduction/compare_modelAB.m",
+      "sha256": "986e7a4b02b4505062dc25baca185fce91f05d9d66f15288834ba612ff9b0295"
+    },
+    {
+      "path": "src/ModelA_Reproduction/main_modelA_debug.m",
+      "origin": "ModelA_Reproduction/main_modelA_debug.m",
+      "sha256": "20be9e34d76f959f0f60f50dcc54b5c41f5eb739912db38caee133b7e4ffbc6a"
+    },
+    {
+      "path": "src/ModelA_Reproduction/main_modelA.m",
+      "origin": "ModelA_Reproduction/main_modelA.m",
+      "sha256": "a4e937674c33bbc1cafa3395d6d5a1090d8db71ef028fe423c2ef9b8797d6c7a"
+    },
+    {
+      "path": "src/ModelA_Reproduction/modelA_rhs.m",
+      "origin": "ModelA_Reproduction/modelA_rhs.m",
+      "sha256": "8c2e23bdef356be19f04365acb16c16fdfbd0c8d2eec64f5a880fbc13954f9e7"
+    },
+    {
+      "path": "src/ModelA_Reproduction/parameters_modelA.m",
+      "origin": "ModelA_Reproduction/parameters_modelA.m",
+      "sha256": "1794408e39dc9a8f5ba932baa4df55e45b9192889b1ea47cd448f321880a5491"
+    },
+    {
+      "path": "src/ModelA_Reproduction/pressure_modelA.m",
+      "origin": "ModelA_Reproduction/pressure_modelA.m",
+      "sha256": "8609958bfc0026a9116ec40d85ec0a6abe8f2987741363b92940072aa0656b2f"
+    },
+    {
+      "path": "src/ModelA_Reproduction/run_modelA_case.m",
+      "origin": "ModelA_Reproduction/run_modelA_case.m",
+      "sha256": "8559efa2c08aba22078adca7cb1151e70ee249924eba93b11b7280fabe40eb6e"
+    },
+    {
+      "path": "src/ModelA_Reproduction/scan_modelA_all.m",
+      "origin": "ModelA_Reproduction/scan_modelA_all.m",
+      "sha256": "cd4643a37c3e447788e397e55e40771b7650065d3e7dcba02a2665ffacbc1e9f"
+    },
+    {
+      "path": "src/ModelB_Reproduction/check_modelB.m",
+      "origin": "ModelB_Reproduction/check_modelB.m",
+      "sha256": "c172aaba9053321f808a44e98d6c1d7da9c05fdbe5cd30a136d66c08cf2336fa"
+    },
+    {
+      "path": "src/ModelB_Reproduction/geometry_modelB.m",
+      "origin": "ModelB_Reproduction/geometry_modelB.m",
+      "sha256": "d2c8250599fd2db30945c75aae45093bb8f22edc49cbec9604aaeaa218631d09"
+    },
+    {
+      "path": "src/ModelB_Reproduction/main_modelB.m",
+      "origin": "ModelB_Reproduction/main_modelB.m",
+      "sha256": "8389d8697d0965eae5e2e63452b02a0644beed804152cdb5b8d6fe5d494584dc"
+    },
+    {
+      "path": "src/ModelB_Reproduction/markov_modelB.m",
+      "origin": "ModelB_Reproduction/markov_modelB.m",
+      "sha256": "a09bc8f56fb29891a5f2d635955d69380abfbf8d18891f93af97c28c3fd12985"
+    },
+    {
+      "path": "src/ModelB_Reproduction/parameters_modelB.m",
+      "origin": "ModelB_Reproduction/parameters_modelB.m",
+      "sha256": "dcf9f111093c4f8c311586d46465ffcb7915b36f61587d4dc2acbec1bded0351"
+    },
+    {
+      "path": "src/ModelB_Reproduction/qmul_modelB.m",
+      "origin": "ModelB_Reproduction/qmul_modelB.m",
+      "sha256": "2ce47151fb132a2de765c42b1a6e99983e4cae4ca73c5e4f8b7eae5438bb84fc"
+    },
+    {
+      "path": "src/ModelB_Reproduction/run_modelB_case.m",
+      "origin": "ModelB_Reproduction/run_modelB_case.m",
+      "sha256": "c110a5ebad0038dfd68fa68f0e9f64d2485c6d4b21a112166c9862e6cd49c65c"
+    },
+    {
+      "path": "src/ModelB_Reproduction/scan_modelB_all.m",
+      "origin": "ModelB_Reproduction/scan_modelB_all.m",
+      "sha256": "cbca96ee96dbd7f738858f5d07e637586d1ef0174819919568c5a2d129982b7d"
+    },
+    {
+      "path": "src/ModelB_Reproduction/scan_modelB_pressure.m",
+      "origin": "ModelB_Reproduction/scan_modelB_pressure.m",
+      "sha256": "b44a0de0a1cbf9bdfc9fa1ce8a3681dc1459f57cf8247f04b2ef3457d3070166"
+    },
+    {
+      "path": "src/ModelB_Reproduction/scan_modelB_resolution.m",
+      "origin": "ModelB_Reproduction/scan_modelB_resolution.m",
+      "sha256": "d43449cf62b55f3729b96a1d3fa22484c51545a7d053f2f5f11ca5b668f6b5ba"
+    },
+    {
+      "path": "src/ModelB_Reproduction/test_modelB_beta1_ep.m",
+      "origin": "ModelB_Reproduction/test_modelB_beta1_ep.m",
+      "sha256": "8cafc08cce00993e896b9ecccd38bce4567b7956ebd3b37c157e7af3e06b3b6f"
+    },
+    {
+      "path": "src/ModelB_Reproduction/test_run_modelB_small.m",
+      "origin": "ModelB_Reproduction/test_run_modelB_small.m",
+      "sha256": "d3bd34acfbeb5c05532d431f34f4c996fb22d4c74b4ab7a8d429a5a1f608aa61"
+    }
+  ]
+}

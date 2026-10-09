@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "licenses": [
+    {
+      "component": "DReaM-ALD",
+      "version": "v1.0.0",
+      "commit": "11311d0df0ea032329c399649e4d8c6f77ab0e7f",
+      "source_url": "https://raw.githubusercontent.com/Aalto-Puurunen/dream-ald/11311d0df0ea032329c399649e4d8c6f77ab0e7f/LICENSE.txt",
+      "local_file": "third-party-dream-ald-v1.0.0.txt",
+      "sha256": "6957beb212b7b0879628e93c64a6489d007a69f915fd85f2ded0973a1a5c7a2e",
+      "retrieved_date": "2026-10-09",
+      "content_policy": "Exact public upstream license bytes; no editing or normalization."
+    },
+    {
+      "component": "Machball",
+      "version": "0.2.0",
+      "commit": "ef903bde5fd456c9f85bfd83a5b92140100b33fe",
+      "source_url": "https://raw.githubusercontent.com/aldsim/machball/ef903bde5fd456c9f85bfd83a5b92140100b33fe/LICENSE",
+      "local_file": "third-party-machball-0.2.0.txt",
+      "sha256": "177591120eff2504e122a98195bb413d7fdb5c43b66483e3ffb0111085edada0",
+      "retrieved_date": "2026-10-09",
+      "content_policy": "Exact public upstream license bytes; no editing or normalization."
+    }
+  ]
+}

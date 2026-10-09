@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "cff_version": "1.2.0",
+  "schema_url": "https://raw.githubusercontent.com/citation-file-format/citation-file-format/1.2.0/schema.json",
+  "schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
+  "release_date": "2026-10-09",
+  "note": "Schema validation was a packaging-time check. Runtime archive checks remain Python-standard-library-only."
+}
